@@ -1,7 +1,7 @@
 # Todo List Application
-todoList application using React.
-this project has been done following the crash course of "Traversy Media"
-url: https://www.youtube.com/watch?v=sBws8MSXN7A
+##### todoList application using React.
+##### this project has been done following the crash course of "Traversy Media"
+##### url: https://www.youtube.com/watch?v=sBws8MSXN7A
 
 
 ## Getting Started
